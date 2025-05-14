@@ -1,0 +1,63 @@
+/* General Styles */
+body {
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+    padding: 0;
+    background-color: #1e1e1e;
+    color: #00ff00;
+}
+
+/* Header Styles */
+header {
+    background-color: #000;
+    color: #00ff00;
+    padding: 20px 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+/* Navigation Styles */
+nav {
+    background-color: #111;
+    color: #00ff00;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav a {
+    color: #00ff00;
+    margin: 0 15px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+/* Main Content Styles */
+main {
+    padding: 20px;
+}
+
+/* Section Styles */
+section {
+    margin: 20px 0;
+}
+
+section h2 {
+    color: #00ff00;
+}
+
+/* Footer Styles */
+footer {
+    background-color: #000;
+    color: #00ff00;
+    padding: 10px 0;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
